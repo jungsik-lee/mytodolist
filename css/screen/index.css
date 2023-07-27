@@ -1,0 +1,36 @@
+body{
+    height:100vh;
+}
+
+.initial-screen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:100px;
+
+}
+
+.initial-screen h1{
+    font-size: 40px;
+}
+
+.initial-screen h2{
+    font-size: 30px;
+}
+
+.initial-screen-input{
+    margin-left:13px;
+}
+.underline{
+    outline: none;
+    border:0;
+    border-bottom: 1px solid black;
+    display: inline;
+}
+
+.check{
+    color:green;
+    background-color: white;
+    border:none;
+    font-size:25px;
+}
