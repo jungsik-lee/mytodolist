@@ -1,2 +1,6 @@
 /*screen*/
 @import "screen/index.css";
+
+.hidden{
+    display: none;
+}
