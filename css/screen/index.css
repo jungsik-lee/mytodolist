@@ -22,6 +22,9 @@ body{
 .initial-screen-input{
     margin-left:13px;
 }
+.initial-screen-input input{
+    text-align: center;
+}
 .underline{
     outline: none;
     border:0;

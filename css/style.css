@@ -1,5 +1,6 @@
 /*screen*/
 @import "screen/index.css";
+@import "screen/todoList.css";
 
 .hidden{
     display: none;
